@@ -1,3 +1,31 @@
 body{
+    background-color: #111111;
+    color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    
+}
+h1{
+    font-size: 36px;
+	font-weight: 400;
+	color: #f3a944;
+	margin: 20px;
+}
+
+.Bossowie
+{
+	text-align: center;
+}
+.Wstep{
     text-align: center;
+}
+.Wstep h2{
+    color: #f3a944;
+}
+
+.Bossowie p{
+    margin-bottom: 30px;
+}
+.Bossowie figcaption{
+    margin-top: 8px;
 }
